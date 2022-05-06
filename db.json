@@ -1,5 +1,4 @@
 {
-  "employes": [],
   "todos": [],
   "products": [
     {
@@ -270,6 +269,56 @@
       "title": "MARATHON WINNER",
       "summary": "Experience the Adizero Adios Pro 2.0 like Peres Jepchirchir and Evans Chebet, winner of the Boston Marathon®.",
       "tag": "SHOP NOW"
+    }
+  ],
+  "other": [
+    {
+      "id": 1,
+      "image": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/0bdb1b66ac6241c2aecfadf700171234_9366/Forum_Low_Shoes_White_GY5833_01_standard.jpg",
+      "price": "₹8 999.00",
+      "title": "Terrex Trailmaker Primegreen Hiking Shoes",
+      "category": "TERREX",
+      "discount": "-30%"
+    },
+    {
+      "id": 2,
+      "image": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/f3e584ae50e144ddb007ae0b001beb55_9366/Adilette_Pride_Slides_Black_GX6389_01_standard.jpg",
+      "price": "₹4 999.00",
+      "title": " Adicolor Classics Firebird Track Jacket",
+      "category": "Originals",
+      "discount": ""
+    },
+    {
+      "id": 3,
+      "image": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/6af3a324ad8f4632b36badf900892d33_9366/Superstar_Shoes_White_GV7610_01_standard.jpg",
+      "price": "₹9 999.00",
+      "title": "Mistico M",
+      "category": "Performance",
+      "discount": "-50%"
+    },
+    {
+      "id": 4,
+      "image": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/f88bdbb8f061489a9e8fadfe011d45a2_9366/Forum_Low_Shoes_White_GV7613_01_standard.jpg",
+      "price": "₹9 999.00",
+      "title": "Mistico M",
+      "category": "Performance",
+      "discount": "-40%"
+    },
+    {
+      "id": 5,
+      "image": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/c4eef76ad3664fb19a7dae1e00326612_9366/Superstar_Pride_Shoes_White_GX6395_01_standard.jpg",
+      "price": "₹9 999.00",
+      "title": "Real Madrid Tiro Anthem Jacket",
+      "category": "Performance",
+      "discount": "-50%"
+    },
+    {
+      "id": 6,
+      "image": "https://assets.adidas.com/images/w_276,h_276,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cc3f591a53f413ca9f3ae1300f43909_9366/Rich_Mnisi_Adilette_Slides_Black_GW0564_01_standard.jpg",
+      "price": "₹4 999.00",
+      "title": "Adicolor Colorblock Tee",
+      "category": "Originals",
+      "discount": ""
     }
   ]
 }
